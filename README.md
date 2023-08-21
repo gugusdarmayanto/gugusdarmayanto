@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gugusdarmayanto
+- i am a programmer in vds for now
+- i am fullstack programmer
